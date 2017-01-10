@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2016.12.6)  14 DEC 2016 17:49
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2016.12.6)  10 JAN 2017 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,36 +1114,38 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 9.
 ) (./cv/education.tex
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
-lable
-(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
-lable
-(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 34.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
+(Font)              scaled to size 10.95pt on input line 5.
 ) (./cv/skills.tex
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 15.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 15.
+
 Overfull \hbox (21.68079pt too wide) in alignment at lines 10--28
 [] [] 
  []
 
-) (./cv/experience.tex) (./cv/extracurricular.tex [1
+) (./cv/experience.tex
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
+lable
+(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
+ut line 25.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 25.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
+lable
+(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
+ut line 25.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 25.
+) (./cv/extracurricular.tex [1
 
 ]) (./cv/honors.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
@@ -1158,11 +1160,11 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
  40391 strings out of 493589
- 765734 string characters out of 6148800
+ 765751 string characters out of 6148800
  893826 words of memory out of 5000000
  43278 multiletter control sequences out of 15000+600000
  6576 words of font info for 84 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 72i,12n,89p,10378b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10378b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv.pdf (2 pages).
